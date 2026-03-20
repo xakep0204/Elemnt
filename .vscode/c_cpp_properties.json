@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/homebrew/include",
+                "/opt/homebrew/opt/boost/include",
+                "${workspaceFolder}/miniCFD/external/eigen-5.0.0"
+            ],
+            "defines": [],
+            "compilerPath": "/opt/homebrew/bin/g++-15",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}
